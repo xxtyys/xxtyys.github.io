@@ -1,0 +1,57 @@
+# Configs for pwills.com
+
+title: "xxtyys.github.io"
+name: "xxtyys.github.io"
+email: chingyokukun@gmail.com
+url: "https://xxtyys.github.io"
+repository: "xxtyys/xxtyys.github.io"
+
+include:
+  - _pages
+  - _articles
+  - assets
+  - index.html
+exclude:
+  - TODO.md
+  - README.md
+  - "*.org"
+  - "*ltximg*"
+
+# Build settings
+markdown: kramdown
+# theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# settings for author profile
+author:
+  name   : "CHEN Yujun, M. Eng."
+  avatar : "/assets/images/headshot.jpg"
+  bio    : "Data Scientist, AI Developer, Data Engineer, and NLP Specialist"
+  location: "Osaka, Japan"
+  github : xxtyys
+  linkedin: cyujun
+  email  : chingyokukun@gmail.com
+
+# default YAML front matter
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|"
+  # posts
+  - scope:
+      type: posts
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: false
+      comments: true
