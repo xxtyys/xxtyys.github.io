@@ -3,7 +3,7 @@ title: ""
 permalink: /resume/
 author_profile: true
 toc: true
-date: 2024-06-30
+date: 2024-12-07
 ---
 
 
@@ -13,7 +13,8 @@ date: 2024-06-30
 <!-- > Click [here](/assets/files/chen-yujun-web-resume-jp.pdf) to download the PDF version of my **Japanese** resume. -->
 
 ## Work Experience
-- **Data Scientist**  <br>Panasonic R&D, Osaka, Japan (Apr 2024 - Jul 2024)  
+- **Data Scientist**  <br>Panasonic R&D, Osaka, Japan (Apr 2024 - Present)
+    - Contributed to the development of a system by analyzing data and providing insights for product development.
     - Collaborated to develop a system analyzing sleep data, enhancing insights into nighttime awakenings and related physiological/environmental factors.
     - Contributed to the validation of system workflows on Node-RED, ensuring efficient system performance.
 - **Full-stack Developer and AI Engineer** <br>Looking Up Co., Ltd., Tokyo, Japan (May 2023 – Mar 2024)  
