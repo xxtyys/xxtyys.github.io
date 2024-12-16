@@ -2,7 +2,7 @@
 title: ""
 permalink: /arts/
 author_profile: true
-date: 2024-06-30
+date: 2024-12-16
 ---
 
 # Selected Articles

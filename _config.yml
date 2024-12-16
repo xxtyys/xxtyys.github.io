@@ -1,9 +1,9 @@
-# Configs for pwills.com
+# Configs for cyujun.com
 
-title: "xxtyys.github.io"
-name: "xxtyys.github.io"
+title: "cyujun.com"
+name: "cyujun.com"
 email: chingyokukun@gmail.com
-url: "https://xxtyys.github.io"
+url: "https://cyujun.com"
 repository: "xxtyys/xxtyys.github.io"
 
 include:
@@ -29,7 +29,7 @@ plugins:
 author:
   name   : "CHEN Yujun, M. Eng."
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Data Scientist, AI Developer, Data Engineer, and NLP Specialist"
+  bio    : "Data Scientist/Engineer and NLP Specialist"
   location: "Osaka, Japan"
   github : xxtyys
   linkedin: cyujun
